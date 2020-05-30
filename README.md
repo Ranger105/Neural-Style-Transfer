@@ -3,7 +3,7 @@ Implementing Style Transfer on Images.
 
 This repo provides PyTorch Implementation of MSG-Net and Neural Style transfer for images.
 
-<img src="https://github.com/Ranger105/Neural-Style-Transfer/blob/master/exampl.png">
+<img src="https://github.com/Ranger105/Neural-Style-Transfer/blob/master/example.png">
 
 
 ## Installation
